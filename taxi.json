@@ -1,0 +1,278 @@
+{"intents": [
+        {"tag": "from:tirunelveli new bus stand, to:tirunelveli old bus stand, through:bypass",
+         "patterns": ["from:tirunelveli new bus stand, to:tirunelveli old bus stand, through:bypass"],
+         "responses": ["$6$#20#"],
+         "context_set": ""
+        },
+        {"tag": "from:tirunelveli new bus stand, to:tirunelveli old bus stand, through:palayamkottai",
+         "patterns": ["from:tirunelveli new bus stand, to:tirunelveli old bus stand, through:palayamkottai"],
+         "responses": ["$10$#20#"],
+         "context_set": ""
+        },
+        {"tag": "from:tirunelveli new bus stand, to:town, through:bypass",
+         "patterns": ["from:tirunelveli new bus stand, to:tirunelveli town, through:bypass"],
+         "responses": ["$8$#20#"],
+         "context_set": ""
+        },
+        {"tag": "from:tirunelveli new bus stand, to:tirunelveli old bus stand, through:palayamkottai",
+         "patterns": ["from:tirunelveli new bus stand, to:tirunelveli old bus stand, through:palayamkottai"],
+         "responses": ["$12$#18#"],
+         "context_set": ""
+        },
+		{"tag": "from:tirunelveli new bus stand, to:samadhanapuram, through:palayamkottai",
+         "patterns": ["from:tirunelveli new bus stand, to:samadhanapuram, through:palayamkottai"],
+         "responses": ["$13$#18#"],
+         "context_set": ""
+        },
+		{"tag": "from:tirunelveli junction, to:samadhanapuram, through:murugankurichi",
+         "patterns": ["from:tirunelveli junction, to:samadhanapuram, through:murugankurichi"],
+         "responses": ["$16$#18#"],
+         "context_set": ""
+        },
+		{"tag": "from:tirunelveli junction, to:ktc nagar, through:murugankurichi",
+         "patterns": ["from:tirunelveli junction, to:ktc nagar, through:murugankurichi"],
+         "responses": ["$9$#20#"],
+         "context_set": ""
+        },
+		{"tag": "from:tirunelveli new bus stand, to:ktc nagar, through:samadhanapuram",
+         "patterns": ["from:tirunelveli new bus stand, to:ktc nagar, through:samadhanapuram"],
+         "responses": ["$8$#20#"],
+         "context_set": ""
+        },
+		{"tag": "from:tirunelveli new bus stand, to:high ground, through:palayamkottai",
+         "patterns": ["from:tirunelveli new bus stand, to:high ground, through:palayamkottai"],
+         "responses": ["$4$#30#"],
+         "context_set": ""
+        },
+		{"tag": "from:tirunelveli junction, to:high ground, through:murugankurichi",
+         "patterns": ["from:tirunelveli junction, to:high ground, through:murugankurichi"],
+         "responses": ["$9$#20#"],
+         "context_set": ""
+        },
+		{"tag": "from:tirunelveli new bus stand, to:thachanallur, through:vannarapettai",
+         "patterns": ["from:tirunelveli new bus stand, to:thachanallur, through:vannarapettai"],
+         "responses": ["$7$#20#"],
+         "context_set": ""
+        },
+		{"tag": "from:tirunelveli junction, to:thachanallur, through:sivasakthi road",
+         "patterns": ["from:tirunelveli junction, to:thachanallur, through:sivasakthi road"],
+         "responses": ["$2$#50#"],
+         "context_set": ""
+        },
+		{"tag": "from:tirunelveli new bus stand, to:nec college kovilpatti, through:vannarapettai",
+         "patterns": ["from:tirunelveli new bus stand, to:nec college kovilpatti, through:vannarapettai"],
+         "responses": ["$60$#12#"],
+         "context_set": ""
+        },
+		{"tag": "from:tirunelveli new bus stand, to:psn college prancheri, through:munneerpallam",
+         "patterns": ["from:tirunelveli new bus stand, to:psn college prancheri, through:munneerpallam"],
+         "responses": ["$17$#15#"],
+         "context_set": ""
+        },
+		{"tag": "from:tirunelveli junction, to:pettai, through:town",
+         "patterns": ["from:tirunelveli junction, to:pettai, through:town"],
+         "responses": ["$6$#20#"],
+         "context_set": ""
+        },
+		{"tag": "from:tirunelveli junction, to:alangulam, through:pettai",
+         "patterns": ["from:tirunelveli junction, to:alangulam, through:pettai"],
+         "responses": ["$30$#12#"],
+         "context_set": ""
+        },
+		{"tag": "from:tirunelveli new bus stand, to:sankarnagar, through:vannarapettai",
+         "patterns": ["from:tirunelveli junction, to:sankarnagar, through:vannarapettai"],
+         "responses": ["$20$#15#"],
+         "context_set": ""
+        },
+		{"tag": "from:tirunelveli junction, to:sankarnagar, through:vannarapettai",
+         "patterns": ["from:tirunelveli junction, to:sankarnagar, through:vannarapettai"],
+         "responses": ["$17$#15#"],
+         "context_set": ""
+        },
+		{"tag": "from:vannarapettai, to:high ground, through:murugankurichi",
+         "patterns": ["from:vannarapettai, to:high ground, through:murugankurichi"],
+         "responses": ["$5$#20#"],
+         "context_set": ""
+        },
+		{"tag": "from:tirunelveli new bus stand, to:papanasam, through:cheranmahadevi",
+         "patterns": ["from:tirunelveli new bus stand, to:papanasam, through:cheranmahadevi"],
+         "responses": ["$54$#12#"],
+         "context_set": ""
+        },
+		{"tag": "from:tirunelveli new bus stand, to:nagarcoil, through:nanguneri",
+         "patterns": ["from:tirunelveli new bus stand, to:nagarcoil, through:nanguneri"],
+         "responses": ["$77$#10#"],
+         "context_set": ""
+        },
+		{"tag": "from:tirunelveli new bus stand, to:madurai, through:virudhunagar",
+         "patterns": ["from:tirunelveli new bus stand, to:madurai, through:virudhunagar"],
+         "responses": ["$162$#9#"],
+         "context_set": ""
+        },
+		{"tag": "from:tirunelveli new bus stand, to:tenkasi, through:alangulam",
+         "patterns": ["from:tirunelveli new bus stand, to:tenkasi, through:alangulam"],
+         "responses": ["$62$#12#"],
+         "context_set": ""
+        },
+		{"tag": "from:tirunelveli new bus stand, to:chennai, through:tiruchirapalli",
+         "patterns": ["from:tirunelveli new bus stand, to:chennai, through:thiruchirapalli"],
+         "responses": ["$624$#8#"],
+         "context_set": ""
+        },
+		{"tag": "from:tirunelveli new bus stand, to:coimbatore, through:madurai",
+         "patterns": ["from:tirunelveli new bus stand, to:coimbatore, through:madurai"],
+         "responses": ["$362$#10#"],
+         "context_set": ""
+        },
+		{"tag": "from:tirunelveli new bus stand, to:thoothukudi, through:vagaikulam",
+         "patterns": ["from:tirunelveli new bus stand, to:thoothukudi, through:vagaikulam"],
+         "responses": ["$51$#12#"],
+         "context_set": ""
+        },
+		{"tag": "from:tirunelveli new bus stand, to:thoothukudi, through:vagaikulam",
+         "patterns": ["from:tirunelveli new bus stand, to:thoothukudi, through:vagaikulam"],
+         "responses": ["$51$#12#"],
+         "context_set": ""
+        },
+		{"tag": "from:tirunelveli new bus stand, to:tiruchendur, through:kurumbur",
+         "patterns": ["from:tirunelveli new bus stand, to:tiruchendur, through:kurumbur"],
+         "responses": ["$53$#12#"],
+         "context_set": ""
+        },
+		{"tag": "from:tirunelveli old bus stand, to:tirunelveli new bus stand,  through:bypass",
+         "patterns": ["from:tirunelveli old bus stand, to:tirunelveli new bus stand,  through:bypass"],
+         "responses": ["$6$#20#"],
+         "context_set": ""
+        },
+        {"tag": "from:tirunelveli old bus stand, to:tirunelveli new bus stand, through:palayamkottai",
+         "patterns": ["from:tirunelveli old bus stand, to:tirunelveli new bus stand, through:palayamkottai"],
+         "responses": ["$10$#20#"],
+         "context_set": ""
+        },
+        {"tag": "from:town, to:tirunelveli new bus stand, through:bypass",
+         "patterns": ["from:town, to:tirunelveli new bus stand, through:bypass"],
+         "responses": ["$8$#20#"],
+         "context_set": ""
+        },
+        {"tag": "from:tirunelveli old bus stand, to:tirunelveli new bus stand, through:palayamkottai",
+         "patterns": ["from:tirunelveli old bus stand, to:tirunelveli new bus stand, through:palayamkottai"],
+         "responses": ["$12$#18#"],
+         "context_set": ""
+        },
+		{"tag": "from:samadhanapuram, to:tirunelveli new bus stand, through:palayamkottai",
+         "patterns": ["from:samadhanapuram, to:tirunelveli new bus stand, through:palayamkottai"],
+         "responses": ["$13$#18#"],
+         "context_set": ""
+        },
+		{"tag": "from:samadhanapuram, to:tirunelveli junction, through:murugankurichi",
+         "patterns": ["from:samadhanapuram, to:tirunelveli junction, through:murugankurichi"],
+         "responses": ["$16$#18#"],
+         "context_set": ""
+        },
+		{"tag": "from:ktc nagar, to:tirunelveli junction, through:murugankurichi",
+         "patterns": ["from:ktc nagar, to:tirunelveli junction, through:murugankurichi"],
+         "responses": ["$9$#20#"],
+         "context_set": ""
+        },
+		{"tag": "from:ktc nagar, to:tirunelveli new bus stand, through:samadhanapuram",
+         "patterns": ["from:ktc nagar, to:tirunelveli new bus stand, through:samadhanapuram"],
+         "responses": ["$8$#20#"],
+         "context_set": ""
+        },
+		{"tag": "from:high ground, to:tirunelveli new bus stand, through:palayamkottai",
+         "patterns": ["from:high ground, to:tirunelveli new bus stand, through:palayamkottai"],
+         "responses": ["$4$#30#"],
+         "context_set": ""
+        },
+		{"tag": "from:high ground, to:tirunelveli junction, through:murugankurichi",
+         "patterns": ["from:high ground, to:tirunelveli junction, through:murugankurichi"],
+         "responses": ["$9$#20#"],
+         "context_set": ""
+        },
+		{"tag": "from:thachanallur, to:tirunelveli new bus stand, through:vannarapettai",
+         "patterns": ["from:thachanallur, to:tirunelveli new bus stand, through:vannarapettai"],
+         "responses": ["$7$#20#"],
+         "context_set": ""
+        },
+		{"tag": "from:thachanallur, to:tirunelveli junction, through:sivasakthi road",
+         "patterns": ["from:thachanallur, to:tirunelveli junction, through:sivasakthi road"],
+         "responses": ["$2$#50#"],
+         "context_set": ""
+        },
+		{"tag": "from:nec college kovilpatti, to:tirunelveli new bus stand, through:vannarapettai",
+         "patterns": ["from:nec college kovilpatti, to:tirunelveli new bus stand, through:vannarapettai"],
+         "responses": ["$60$#12#"],
+         "context_set": ""
+        },
+		{"tag": "from:psn college prancheri, to:tirunelveli new bus stand, through:munneerpallam",
+         "patterns": ["from:psn college prancheri, to:tirunelveli new bus stand, through:munneerpallam"],
+         "responses": ["$17$#15#"],
+         "context_set": ""
+        },
+		{"tag": "from:pettai, to:tirunelveli junction, through:town",
+         "patterns": ["from:pettai, to:tirunelveli junction, through:town"],
+         "responses": ["$6$#20#"],
+         "context_set": ""
+        },
+		{"tag": "from:alangulam, to:tirunelveli junction, through:pettai",
+         "patterns": ["from:alangulam, to:tirunelveli junction, through:pettai"],
+         "responses": ["$30$#12#"],
+         "context_set": ""
+        },
+		{"tag": "from:sankarnagar, to:tirunelveli new bus stand, through:vannarapettai",
+         "patterns": ["from:sankarnagar, to:tirunelveli new bus stand, through:vannarapettai"],
+         "responses": ["$20$#15#"],
+         "context_set": ""
+        },
+		{"tag": "from:sankarnagar, to:tirunelveli junction, through:vannarapettai",
+         "patterns": ["from:sankarnagar, to:tirunelveli junction, through:vannarapettai"],
+         "responses": ["$17$#15#"],
+         "context_set": ""
+        },
+		{"tag": "from:high ground, to:vannarapettai, through:murugankurichi",
+         "patterns": ["from:high ground, to:vannarapettai, through:murugankurichi"],
+         "responses": ["$5$#20#"],
+         "context_set": ""
+        },
+		{"tag": "from:papanasam, to:tirunelveli new bus stand, through:cheranmahadevi",
+         "patterns": ["from:papanasam, to:tirunelveli new bus stand, through:cheranmahadevi"],
+         "responses": ["$54$#12#"],
+         "context_set": ""
+        },
+		{"tag": "from:nagarcoil, to:tirunelveli new bus stand, through:nanguneri",
+         "patterns": ["from:nagarcoil, to:tirunelveli new bus stand, through:nanguneri"],
+         "responses": ["$77$#10#"],
+         "context_set": ""
+        },
+		{"tag": "from:madurai, to:tirunelveli new bus stand, through:virudhunagar",
+         "patterns": ["from:madurai, to:tirunelveli new bus stand, through:virudhunagar"],
+         "responses": ["$162$#9#"],
+         "context_set": ""
+        },
+		{"tag": "from:tenkasi, to:tirunelveli new bus stand, through:alangulam",
+         "patterns": ["from:tenkasi, to:tirunelveli new bus stand, through:alangulam"],
+         "responses": ["$62$#12#"],
+         "context_set": ""
+        },
+		{"tag": "from:chennai, to:tirunelveli new bus stand, through:tiruchirapalli",
+         "patterns": ["from:chennai, to:tirunelveli new bus stand, through:tiruchirapalli"],
+         "responses": ["$624$#8#"],
+         "context_set": ""
+        },
+		{"tag": "from:coimbatore, to:tirunelveli new bus stand, through:madurai",
+         "patterns": ["from:coimbatore, to:tirunelveli new bus stand, through:madurai"],
+         "responses": ["$362$#10#"],
+         "context_set": ""
+        },
+		{"tag": "from:thoothukudi, to:tirunelveli new bus stand, through:vagaikulam",
+         "patterns": ["from:thoothukudi, to:tirunelveli new bus stand, through:vagaikulam"],
+         "responses": ["$51$#12#"],
+         "context_set": ""
+        },
+		{"tag": "from:tiruchendur, to:tirunelveli new bus stand, through:kurumbur",
+         "patterns": ["from:tiruchendur, to:tirunelveli new bus stand, through:kurumbur"],
+         "responses": ["$53$#12#"],
+         "context_set": ""
+        }
+   ]
+}
